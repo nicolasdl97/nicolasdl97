@@ -24,6 +24,15 @@
   </a>
 </p>
 
+---
+
+## A bit more
+- 🌱 I’m currently exploring data science in depth.
+- 🤝 Open to collaborate on innocative projects.
+- 💼 Digital Analyst at Wave Rock (remote EU) · ex Data Analyst at Elosung
+- 💬 Ask me about Python, SQL, or Power BI.
+- ⚡ Fun fact: I enjoy turning messy spreadsheets into tidy datasets and clear dashboards.
+
 ## Languages & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40"/>
@@ -45,12 +54,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40"/>
 </p>
-
----
-
-## A bit more
-- 🌱 I’m currently exploring data science in depth.
-- 🤝 Open to collaborate on innocative projects.
-- 💼 Digital Analyst at Wave Rock (remote EU) · ex Data Analyst at Elosung
-- 💬 Ask me about Python, SQL, or Power BI.
-- ⚡ Fun fact: I enjoy turning messy spreadsheets into tidy datasets and clear dashboards.
