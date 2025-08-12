@@ -6,7 +6,7 @@
 </p>
 
 ## About Me
-- 🎓 BSc in **Business Administration & Finance** (ESAN) · Master’s in **Data Science for Finance** (EAE, Barcelona)
+- 🎓 BSc in **Business Administration & Finance** (ESAN) · Master’s in **Data Science for Finance** (EAE Business School)
 - 💼 **Digital Analyst** @ Wave Rock (remote) · prev. Data Analyst @ Elosung
 - 🧩 Interested in finance analytics, dashboards, forecasting and clean ETL
 - 💬 Ask me about **Python, SQL, Power BI**
